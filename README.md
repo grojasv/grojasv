@@ -1,6 +1,6 @@
 ### Hi there, I'm Guillermo Rojas 👋
 
-- 📱 I'm a mobile engineer passionate about building solids APPS, especially on Android
+- 📱 I'm a mobile engineer passionate about building solid APPS, especially on Android
 - 🌱 I’m currently learning about Flutter, “everything is a widget”!
 - 🏖️ I'm located in Mallorca, part of the beautiful Balearic islands
 - 😄 Pronouns: he/him
