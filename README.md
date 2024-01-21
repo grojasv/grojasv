@@ -1,7 +1,6 @@
 ### Hi there, I'm Guillermo Rojas 👋
 
-- 📱 I'm a Mobile Engineer passionate about building solid APPS, especially on Android
-- 🌱 I’m currently learning about Flutter, “everything is a widget”!
+- 📱 I'm a Mobile Engineer passionate about building solid APPS, especially on Android and Flutter
 - 🏖️ I'm located in Mallorca part of the magnificent Balearic Islands, Spain
 - 📫 How to reach me? Check out my email on the left 👈
 
@@ -11,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning about Flutter, “everything is a widget”!
+- 🌱 I’m currently learning about ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
