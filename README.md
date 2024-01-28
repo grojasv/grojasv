@@ -1,7 +1,8 @@
 ### Hi there, I'm Guillermo Rojas 👋
 
 - 📱 I'm a Mobile Engineer passionate about building solid APPS, especially on Android and Flutter
-- 🏖️ I'm located in Mallorca part of the magnificent Balearic Islands, Spain
+- 💬 Ask me about mobile products and mobile UX
+- 🏖️ I'm located in Mallorca, Balearic Islands, Spain 
 - 📫 How to reach me? Check out my email on the left 👈
 
 <!--
