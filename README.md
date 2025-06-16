@@ -1,9 +1,8 @@
 ### Hi there, I'm Guillermo Rojas 👋
 
-- 📱 I'm a Mobile Engineer passionate about building SOLID apps, especially using Android and Flutter
-- 💬 Ask me about anything related to mobile products and mobile UX
+- 📱 I'm a Software Engineer passionate about building SOLID apps, especially using Flutter
+- 💬 Ask me about anything related to mobile solutions
 - 🌱 I’m currently learning about game development on Flame Engine
-- 👯 I’m looking to collaborate on nonprofit educational projects
 - 🏖️ I'm located in Mallorca, Balearic Islands, Spain
 - 📫 How to reach me? Check out my email on the left 👈
 
