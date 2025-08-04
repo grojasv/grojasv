@@ -1,21 +1,16 @@
-### Hi there, I'm Guillermo Rojas 👋
+### 👋 Hola! I'm Guillermo Rojas
 
-- 📱 I'm a Software Engineer passionate about building SOLID apps, especially using Flutter
-- 💬 Ask me about anything related to mobile solutions
-- 🌱 I’m currently learning about game development on Flame Engine
-- 🏖️ I'm located in Mallorca, Balearic Islands, Spain
-- 📫 How to reach me? Check out my email on the left 👈
+🏖️ **Product Engineer** living the island life in Mallorca, Spain
 
-<!--
-**grojasv/grojasv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Current adventures:
+- 📱 Crafting mobile experiences that users actually enjoy
+- 🍦 Built a real-time ice cream flavor tracker
+- 🎮 Diving into game development with Flame Engine
 
-Here are some ideas to get you started:
+## 🎲 Random dev fact generator:
+- ☕ Coffee consumed today: `Math.random() * 10`
+- 🍦 Ice creams devoured: `Always > 0`
+- 🐛 Bugs created vs fixed: `It's complicated`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning about ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💬 Ask me about mobile solutions or Flutter!**
+📧 Email's right there 👈 | Always happy to connect!
