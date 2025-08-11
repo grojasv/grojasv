@@ -13,4 +13,5 @@
 - 🐛 Bugs created vs fixed: `It's complicated`
 
 **💬 Ask me about mobile solutions or Flutter!**
+
 📧 Email's right there 👈 | Always happy to connect!
